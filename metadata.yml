@@ -1,0 +1,12 @@
+---
+:id: 38300242
+:submitters:
+- :name: Enzo Han
+  :email: e3han@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-05-27 03:54:29.388599000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-05-26 20:54:29.388599000 Z
+:status: processed
+:score: 65.0
